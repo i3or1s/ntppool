@@ -33,7 +33,7 @@ msgstr "Prevodi"
 
 # mailinglists.html
 msgid  "NTP Pool mailing lists"
-msgstr "NTP Pool mailing lista"
+msgstr "NTP grupna  mailing lista"
 
 msgid  "subscribe"
 msgstr "prijavi se"
@@ -51,7 +51,7 @@ msgid  "Development list"
 msgstr "Razvojan lista"
 
 msgid  "announcement_list_description"
-msgstr "Vrlo mali saobraćaj saopštenja na NTP Pool news listi.  Svi server administratori bi trebalo da se prijave na listu saopštenja."
+msgstr "Vrlo mali saobraćaj saopštenja na NTP grupnoj news listi.  Svi server administratori bi trebalo da se prijave na listu saopštenja."
 
 msgid  "discussion_list_description"
 msgstr "Server administratori (i korisnici) koji žele da se uključe u projkat mogu da se prijave na listu diskusija.<br/> Podrazumeva se da sve diskusije o ntp-u treba da se odvijaju na %1 Usenet newsgroup (takođe i na <a href=\"%2\">Google Groups</a>)."
@@ -73,7 +73,7 @@ msgid  "Stats for %1"
 msgstr "Statistika za %1"
 
 msgid  "Not active in the pool, monitoring only"
-msgstr "Nije aktivno u bazenu, samo praćenje"
+msgstr "Nije aktivno u grupi, samo praćenje"
 
 msgid  "Zones:"
 msgstr "Zone:"
@@ -82,7 +82,7 @@ msgid  "This server is <span class="deletion">scheduled for deletion</span> on %
 msgstr "Ovaj server je <span class="deletion">planiran za brisanje</span> %1."
 
 msgid  "Current score: %1 (only servers with a score higher than %2 are used in the pool)"
-msgstr "Trenutni rezultat: %1 (samo serveri sa rezultatom većim od %2 se koriste u bazenu)"
+msgstr "Trenutni rezultat: %1 (samo serveri sa rezultatom većim od %2 se koriste u grupi)"
 
 msgid  "What do the graphs mean?"
 msgstr "Šta znače grafikoni?"
